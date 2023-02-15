@@ -9,8 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>leet4sum</module>
-        <module>leet4Sum</module>
+        <module>dataStructure</module>
     </modules>
 
     <properties>
