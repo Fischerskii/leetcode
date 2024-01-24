@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dataStructure</module>
+        <module>dataStructure/pascalsTirangle</module>
         <module>dataStructure/validSudoku</module>
     </modules>
 
