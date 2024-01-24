@@ -11,6 +11,7 @@
     <modules>
         <module>dataStructure</module>
         <module>dataStructure/pascalsTirangle</module>
+        <module>dataStructure/validSudoku</module>
     </modules>
 
     <properties>
