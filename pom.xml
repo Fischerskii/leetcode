@@ -13,6 +13,7 @@
         <module>dataStructure/pascalsTirangle</module>
         <module>dataStructure/validSudoku</module>
         <module>dataStructure/palindromeNumber</module>
+        <module>dataStructure/romanToInteger</module>
     </modules>
 
     <properties>
