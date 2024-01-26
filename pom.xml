@@ -14,6 +14,7 @@
         <module>dataStructure/validSudoku</module>
         <module>dataStructure/palindromeNumber</module>
         <module>dataStructure/romanToInteger</module>
+        <module>dataStructure/longestCommonPrefix</module>
     </modules>
 
     <properties>
