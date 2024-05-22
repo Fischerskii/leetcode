@@ -15,6 +15,9 @@
         <module>dataStructure/palindromeNumber</module>
         <module>dataStructure/romanToInteger</module>
         <module>dataStructure/longestCommonPrefix</module>
+        <module>dataStructure/generateParentheses</module>
+        <module>dataStructure/generateParentheses</module>
+        <module>dataStructure/searchInsertPosition</module>
     </modules>
 
     <properties>
