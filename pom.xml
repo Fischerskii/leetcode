@@ -19,6 +19,7 @@
         <module>dataStructure/generateParentheses</module>
         <module>dataStructure/searchInsertPosition</module>
         <module>dataStructure/sqrtx</module>
+        <module>dataStructure/lengthOfLastWord</module>
     </modules>
 
     <properties>
