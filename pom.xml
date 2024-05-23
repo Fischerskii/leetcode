@@ -18,6 +18,7 @@
         <module>dataStructure/generateParentheses</module>
         <module>dataStructure/generateParentheses</module>
         <module>dataStructure/searchInsertPosition</module>
+        <module>dataStructure/sqrtx</module>
     </modules>
 
     <properties>
