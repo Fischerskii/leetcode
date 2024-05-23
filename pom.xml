@@ -15,6 +15,7 @@
         <module>dataStructure/palindromeNumber</module>
         <module>dataStructure/romanToInteger</module>
         <module>dataStructure/longestCommonPrefix</module>
+        <module>dataStructure/sqrtx</module>
     </modules>
 
     <properties>
