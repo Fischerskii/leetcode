@@ -12,8 +12,6 @@ public class BinaryTreeInorderTraversal {
         root.right.left = new TreeNode(3);
         root.right.right = new TreeNode(5);
 
-        //1, 6, 2, 8, 3, 2, 5
-
         Solution solution = new Solution();
         List<Integer> result = solution.inorderTraversal(root);
 
