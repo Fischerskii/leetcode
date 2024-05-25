@@ -15,6 +15,6 @@ public class BinaryTreeInorderTraversal {
         Solution solution = new Solution();
         List<Integer> result = solution.inorderTraversal(root);
 
-        System.out.println(result);  // [1, 3, 2]
+        System.out.println(result);
     }
 }
