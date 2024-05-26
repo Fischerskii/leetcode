@@ -16,6 +16,7 @@
         <module>searchA2DMatrix</module>
         <module>lengthOfLastWord</module>
         <module>plusOne</module>
+        <module>fibonacciNumber</module>
         <module>binaryTreeInorderTraversal</module>
     </modules>
 
