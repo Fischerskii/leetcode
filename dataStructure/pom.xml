@@ -15,7 +15,6 @@
         <module>reshapeTheMatrix</module>
         <module>searchA2DMatrix</module>
         <module>lengthOfLastWord</module>
-        <module>removeDuplicates</module>
         <module>plusOne</module>
         <module>binaryTreeInorderTraversal</module>
     </modules>
