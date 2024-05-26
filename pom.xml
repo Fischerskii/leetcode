@@ -20,6 +20,7 @@
         <module>dataStructure/searchInsertPosition</module>
         <module>dataStructure/sqrtx</module>
         <module>dataStructure/lengthOfLastWord</module>
+        <module>dataStructure/binaryTreeInorderTraversal</module>
     </modules>
 
     <properties>
