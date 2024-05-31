@@ -18,6 +18,7 @@
         <module>plusOne</module>
         <module>fibonacciNumber</module>
         <module>binaryTreeInorderTraversal</module>
+        <module>compareVersionNumbers</module>
     </modules>
 
     <properties>
