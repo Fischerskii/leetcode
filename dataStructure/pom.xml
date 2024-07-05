@@ -19,6 +19,7 @@
         <module>fibonacciNumber</module>
         <module>binaryTreeInorderTraversal</module>
         <module>compareVersionNumbers</module>
+        <module>wordPattern</module>
     </modules>
 
     <properties>

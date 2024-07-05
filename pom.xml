@@ -21,6 +21,7 @@
         <module>dataStructure/sqrtx</module>
         <module>dataStructure/lengthOfLastWord</module>
         <module>dataStructure/binaryTreeInorderTraversal</module>
+        <module>test</module>
     </modules>
 
     <properties>
