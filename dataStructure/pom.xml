@@ -25,6 +25,7 @@
         <module>validParentheses</module>
         <module>minStack</module>
         <module>dailyTemperatures</module>
+        <module>maximumDepthOfBinaryTree</module>
     </modules>
 
     <properties>

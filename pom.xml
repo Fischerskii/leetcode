@@ -23,6 +23,7 @@
         <module>dataStructure/binaryTreeInorderTraversal</module>
         <module>test</module>
         <module>dataStructure/validParentheses</module>
+        <module>dataStructure/maximumDepthOfBinaryTree</module>
     </modules>
 
     <properties>
