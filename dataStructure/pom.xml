@@ -24,6 +24,7 @@
         <module>3Sum</module>
         <module>validParentheses</module>
         <module>minStack</module>
+        <module>dailyTemperatures</module>
     </modules>
 
     <properties>
