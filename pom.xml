@@ -22,6 +22,7 @@
         <module>dataStructure/lengthOfLastWord</module>
         <module>dataStructure/binaryTreeInorderTraversal</module>
         <module>test</module>
+        <module>dataStructure/validParentheses</module>
     </modules>
 
     <properties>
