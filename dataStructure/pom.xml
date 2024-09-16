@@ -22,6 +22,7 @@
         <module>wordPattern</module>
         <module>validAnagram</module>
         <module>3Sum</module>
+        <module>validParentheses</module>
     </modules>
 
     <properties>
