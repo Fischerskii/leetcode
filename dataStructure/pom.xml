@@ -23,6 +23,7 @@
         <module>validAnagram</module>
         <module>3Sum</module>
         <module>validParentheses</module>
+        <module>minStack</module>
     </modules>
 
     <properties>
