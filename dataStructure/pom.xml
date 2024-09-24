@@ -26,6 +26,7 @@
         <module>minStack</module>
         <module>dailyTemperatures</module>
         <module>maximumDepthOfBinaryTree</module>
+        <module>validateBinarySearchTree</module>
     </modules>
 
     <properties>
