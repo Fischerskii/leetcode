@@ -24,6 +24,8 @@
         <module>test</module>
         <module>dataStructure/validParentheses</module>
         <module>dataStructure/maximumDepthOfBinaryTree</module>
+        <module>dataStructure/binaryTreeLevelOrderTraversal</module>
+        <module>dataStructure/bestTimeToBuyAndSellStock</module>
     </modules>
 
     <properties>
