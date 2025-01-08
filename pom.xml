@@ -26,6 +26,7 @@
         <module>dataStructure/maximumDepthOfBinaryTree</module>
         <module>dataStructure/binaryTreeLevelOrderTraversal</module>
         <module>dataStructure/bestTimeToBuyAndSellStock</module>
+        <module>dataStructure/jumpGame</module>
     </modules>
 
     <properties>
