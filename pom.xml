@@ -27,6 +27,8 @@
         <module>dataStructure/binaryTreeLevelOrderTraversal</module>
         <module>dataStructure/bestTimeToBuyAndSellStock</module>
         <module>dataStructure/jumpGame</module>
+        <module>dataStructure/gas-station</module>
+        <module>dataStructure/names_service</module>
     </modules>
 
     <properties>
